@@ -6,7 +6,7 @@ namespace System_Monitoring_Backend
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hel glo World!");
+            Console.WriteLine("Hel gl2o World!");
         }
     }
 }
